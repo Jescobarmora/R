@@ -60,4 +60,3 @@ MnInscts()
 CntInscts()
 
 #True = El insecticida Supera los 5 Insectos
-
